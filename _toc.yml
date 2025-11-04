@@ -26,6 +26,7 @@ parts:
       - file: content/computational_sets/two_qubit_entangled
       - file: content/computational_sets/CO_Perturbation_Theory_Quartic
       - file: content/computational_sets/Newton-Raphson
+      - file: content/computational_sets/linear_variational_method
 
   - caption: Resources
     chapters:
